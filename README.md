@@ -1,4 +1,4 @@
 # DEMO
 This is my first repository
 <br>
-Author - Roshni
+Author - Roshni Verma
